@@ -1,5 +1,17 @@
 # Encryption and Authentication
    
+   * Questions for Security Engineering
+   -------
+   * How to find if the hitting URL is a server or a botnet
+   * What is the differenence between a Web App and Web Server
+   * What is the difference between micro service architecture and monolithic architecture
+   * What is the difference between a botnet and WAF
+   * What is SSL Offloading and how it is important, where it is allocated in archiecture diagram
+   * What is perfect forward secracy 
+   * What are the pointers to be taken into consideration while reviewing an architecture model of AWS
+   * Differenciate between CWPP, CASB and CSPM
+   * Which SIEM tool you have worked upon
+   -------
    * What is a three-way handshake?
    * How do cookies work?
    * How do sessions work?
